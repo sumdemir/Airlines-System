@@ -52,7 +52,7 @@ To access the H2 Console:
 
 ## API DOCUMENTATION
 
-[You can access the entire postman api documentation of the project here :](https://documenter.getpostman.com/view/29652406/2sAXqp8PPV)
+[You can access the entire postman api documentation of the project here.](https://documenter.getpostman.com/view/29652406/2sAXqp8PPV)
 
 ### Airline ✈️
 #### Create Airline
