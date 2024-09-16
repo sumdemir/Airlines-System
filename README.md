@@ -1,5 +1,5 @@
 
-# Airlines Ticket and Payment System ✈️
+# Airline Ticket and Payment System ✈️
 
 This project is an airline ticketing system backend application developed using Spring Boot and Hibernate. It provides RESTful APIs to manage passengers' flight reservations. The system includes basic functions such as adding an airline company, adding an airport, adding a flight route, listing a company's flights, creating and canceling a ticket, as well as the payment method for the ticket.
 
